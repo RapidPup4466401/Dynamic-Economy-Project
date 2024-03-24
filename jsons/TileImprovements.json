@@ -1,1 +1,19 @@
-
+[	
+	{
+		"name": "Weather",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": -1,
+    "food": -2,
+    "happiness": -1,
+		"science": 2,
+		"gold":3,
+    "uniques": [
+        "Great Improvement",
+        "Unpillagable",
+        "Irremovable",
+        "Removes removable features when built",
+        "Can be built outside your borders",
+        "Unbuildable",
+    ]
+	}
+]	
