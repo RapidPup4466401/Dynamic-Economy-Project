@@ -10,6 +10,7 @@
 			"Units ending their turn on this terrain take [20] damage",
 			"Never receives any resources",
 			"Removes removable features when built",
-			"[20]% Chance to be destroyed by nukes"],
+			"[20]% Chance to be destroyed by nukes",
+			"Doesn't generate naturally"],
 	}
 ]	
