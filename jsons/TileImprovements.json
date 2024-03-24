@@ -15,6 +15,7 @@
         		"Removes removable features when built",
         		"Can be built outside your borders",
         		"Unbuildable",
+			"Nullifies all other stats this tile provides",
     		]
 	}
 ]	
