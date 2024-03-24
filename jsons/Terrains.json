@@ -6,8 +6,6 @@
 		"science": 2,
 		"movementCost": 3,
 		"uniques": [
-			"[Generated with weight [3] <upon turn end> <with [90]% chance> <in [Land] tiles>",
-			"Neighboring tiles will convert to [Weather] <with [30]% chance> <with [1] to [5] neighboring [Weather] tiles> <upon turn end>",
 			"Nullifies all other stats this tile provides",
 			"Units ending their turn on this terrain take [20] damage",
 			"Never receives any resources",
