@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Event Building",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    [
+			"Triggers a [Inspiration] event",
+      "Triggers a [Golden Age] event",
+    ]
+	}
+]
