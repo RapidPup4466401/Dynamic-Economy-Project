@@ -8,8 +8,7 @@
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-20] Happiness>",
         "[-1] Sight <for [Embarked] units>",
-        "Can instantly construct a [Weather] improvement <in tiles without [Weather]> <with [90]% chance>",
-        "Turn this tile into a [Grassland] tile <in [Weather] tiles> <after [2] turns>",
-        "Neighboring tiles will convert to [Weather] <with [30]% chance> <with [1] to [5] neighboring [Weather] tiles> <within [1] tiles of a [Weather]> <upon turn end>",
+        ///
+        "[-20]% [Happiness] [in all cities] <in cities with a major religion> <when below [2] [Happiness> <every [10] turns> <with [30]% chance>",
     ]
 }
