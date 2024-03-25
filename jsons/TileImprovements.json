@@ -10,6 +10,7 @@
     		"uniques": 
 		[
         		"Unpillagable",
+			"Turn this tile into a [Grassland] tile <in [Weather] tiles> <after [2] turns> <upon turn end> <with [50]% chance>",
         		"Irremovable",
         		"Removes removable features when built",
         		"Can be built outside your borders",
