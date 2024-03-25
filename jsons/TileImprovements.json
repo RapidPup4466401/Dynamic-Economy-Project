@@ -16,6 +16,8 @@
         		"Can be built outside your borders",
         		"Unbuildable",
 			"Nullifies all other stats this tile provides",
+			"Units ending their turn on this terrain take [20] damage",
+			"Removes removable features when built",
     		]
 	}
 ]	
