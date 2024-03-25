@@ -1,5 +1,25 @@
 [	
 	{
+		"name": "Aftermath",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": -1,
+    		"food": -2,
+    		"happiness": -1,
+		"science": 2,
+		"gold":3,
+    		"uniques": 
+		[
+        		"Unpillagable",
+			"Will be replaced by automated workers",
+        		"Irremovable",
+        		"Removes removable features when built",
+        		"Can be built outside your borders",
+        		"Unbuildable",
+			"Nullifies all other stats this tile provides",
+			"Removes removable features when built",
+    		]
+	},
+	{
 		"name": "Weather",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": -1,
@@ -10,7 +30,6 @@
     		"uniques": 
 		[
         		"Unpillagable",
-			"Turn this tile into a [Grassland] tile <in [Weather] tiles> <after [2] turns> <upon turn end> <with [50]% chance>",
         		"Irremovable",
         		"Removes removable features when built",
         		"Can be built outside your borders",
