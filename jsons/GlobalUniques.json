@@ -9,6 +9,7 @@
         "Comment [Your citizens are attempting to start a revolution to overthrow the goverment!] <when between [-100] and [-26] [Happiness]>",
     
         "[-1 Gold] per [1] population [in all cities] <when below [0] Happiness> <with [80]% chance>",
+        "Nullifies Growth [in all cities] <when below [0] Happiness>",
         "[-1 Science, -1 Gold, -1 Production] per [1] population [in all cities] <when below [0] Happiness> <with [30]% chance>",
         "[-1 Science, -1 Gold, -1 Production, -1 Culture, -1 Faith] per [1] population [in all cities] <when between [-5] and [-1] [Happiness]>",
         "[-3 Science, -1 Gold, -2 Production, -1 Culture, -1 Faith, -1 Food] per [1] population [in all cities] <when between [-15] and [-6] [Happiness]>",
