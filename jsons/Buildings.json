@@ -8,5 +8,53 @@
 			"Triggers a [Inspiration] event",
       			"Triggers a [Golden Age] event",
     		]
+	},
+	{
+		"name": "Market Test 1",
+		"cost": 1,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+10]% [Gold] [in this city] <every [1] turns> <with [50]% chance>",
+			"[-10]% [Gold] [in this city] <every [2] turns> <with [50]% chance>",
+			"[-12]% [Gold] [in this city] <every [1] turns> <with [75]% chance> <when below [1] Happiness>"],
+	},
+	{
+		"name": "Market Test 2",
+		"cost": 1,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+10]% [Gold] [in this city] <with [50]% chance>",
+			"[-10]% [Gold] [in this city] <with [50]% chance>",
+			"[-12]% [Gold] [in this city] <with [75]% chance> <when below [1] Happiness>"],
+	},
+	{
+		"name": "Market Test 3",
+		"cost": 1,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+10] [Gold] [in this city]",
+			"[-10] [Gold] [in this city]",
+			"[-12] [Gold] [in this city]"],
+	},
+	{
+		"name": "Market Test 4",
+		"cost": 1,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+10] [Gold] [in this city] <upon turn end>"],
+	},
+	{
+		"name": "Market Test 5",
+		"cost": 1,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+10]% [Gold] [in this city] <upon turn end>"],
+	},
+	{
+		"name": "Market Test 6",
+		"cost": 1,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+10]% [Gold] [in this city] <upon turn end> <with [50]% chance>"],
 	}
 ]
