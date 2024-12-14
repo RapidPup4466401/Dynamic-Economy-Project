@@ -3,7 +3,7 @@
     "uniques": 
     [
         // Comments relating to happiness
-        "Comment [Your citizens are beginning to distrust the government...] <when between [0] and [5] [Happiness]>",
+        "Your citizens are beginning to distrust the government... <when between [0] and [5] [Happiness]> <upon turn end>",
         "Comment [Your citizens are in unrest and speak of rebellion...] <when between [-5] and [-1] [Happiness]>",
         "Comment [Citizens are openly rioting in the streets...] <when between [-15] and [-6] [Happiness]>",
         "Comment [People demand you to fix the nation!] <when between [-25] and [-16] [Happiness]>",
