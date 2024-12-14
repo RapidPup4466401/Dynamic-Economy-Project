@@ -70,35 +70,35 @@
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
-			"[-5] [Happiness] [in this city] <upon turn end>"],
+			"[-5] [Happiness] [in this city] "],
 	}
 	{
 		"name": "Happiness Changer 3",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
-			"[-5] [Happiness] [in this city] <upon turn end>"],
+			"[-5] [Happiness] [in this city]"],
 	}
 	{
 		"name": "Happiness Changer 4",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
-			"[-5] [Happiness] [in this city] <upon turn end>"],
+			"[-5] [Happiness] [in this city]"],
 	}
 	{
 		"name": "Happiness Changer 5",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
-			"[-10] [Happiness] [in this city] <upon turn end>"],
+			"[-10] [Happiness] [in this city]"],
 	}
 	{
 		"name": "Happiness Changer 6",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
-			"[-10] [Happiness] [in this city] <upon turn end>"],
+			"[-10] [Happiness] [in this city]"],
 	}
 	
 ]
