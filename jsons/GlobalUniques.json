@@ -7,21 +7,22 @@
         "Comment [Citizens are openly rioting in the streets...] <when between [-15] and [-6] [Happiness]>",
         "Comment [People demand you to fix the nation!] <when between [-25] and [-16] [Happiness]>",
         "Comment [Your citizens are attempting to start a revolution to overthrow the goverment!] <when between [-100] and [-26] [Happiness]>",
-    
-        "[-1 Gold] per [1] population [in all cities] <when below [0] Happiness> <with [80]% chance>",
-        "Nullifies Growth [in all cities] <when below [0] Happiness>",
-        "[-1 Science, -1 Gold, -1 Production] per [1] population [in all cities] <when below [0] Happiness> <with [30]% chance>",
-        "[-1 Science, -1 Gold, -1 Production, -1 Culture, -1 Faith] per [1] population [in all cities] <when between [-5] and [-1] [Happiness]>",
-        "[-3 Science, -1 Gold, -2 Production, -1 Culture, -1 Faith, -1 Food] per [1] population [in all cities] <when between [-15] and [-6] [Happiness]>",
-        "[-5 Science, -2 Gold, -3 Production, -2 Culture, -2 Faith, -2 Food] per [1] population [in all cities] <when between [-25] and [-16] [Happiness]>",
-        "[+20]% maintenance on roads & railroads <when between [-25] and [-16] [Happiness]>",
-        "[-5 Science, -2 Gold, -3 Production, -2 Culture, -2 Faith, -4 Food] per [1] population [in all cities] <when between [-100] and [-26] [Happiness]>",
-        "[+20]% maintenance on roads & railroads <when between [-100] and [-26] [Happiness]>",
-        "[+20]% construction time for [All] improvements <when between [-100] and [-26] [Happiness]>",
-        "Rebel units may spawn <when between [-100] and [-26] [Happiness]>",
 
-        "[+2 Gold] from every [{Market}{Stock Market}] <with [50]% chance>",
-        "[+4 Gold] from every [{Market}{Stock Market}] <with [20]% chance>",
-        "[-2 Gold] from every [{Market}{Stock Market}] <with [20]% chance>",
+        
+        // "[-1 Gold] per [1] population [in all cities] <when below [0] Happiness> <with [80]% chance>",
+        // "Nullifies Growth [in all cities] <when below [0] Happiness>",
+        // "[-1 Science, -1 Gold, -1 Production] per [1] population [in all cities] <when below [0] Happiness> <with [30]% chance>",
+        // "[-1 Science, -1 Gold, -1 Production, -1 Culture, -1 Faith] per [1] population [in all cities] <when between [-5] and [-1] [Happiness]>",
+        // "[-3 Science, -1 Gold, -2 Production, -1 Culture, -1 Faith, -1 Food] per [1] population [in all cities] <when between [-15] and [-6] [Happiness]>",
+        // "[-5 Science, -2 Gold, -3 Production, -2 Culture, -2 Faith, -2 Food] per [1] population [in all cities] <when between [-25] and [-16] [Happiness]>",
+        // "[+20]% maintenance on roads & railroads <when between [-25] and [-16] [Happiness]>",
+        // "[-5 Science, -2 Gold, -3 Production, -2 Culture, -2 Faith, -4 Food] per [1] population [in all cities] <when between [-100] and [-26] [Happiness]>",
+        // "[+20]% maintenance on roads & railroads <when between [-100] and [-26] [Happiness]>",
+        // "[+20]% construction time for [All] improvements <when between [-100] and [-26] [Happiness]>",
+        // "Rebel units may spawn <when between [-100] and [-26] [Happiness]>",
+
+        // "[+2 Gold] from every [{Market}{Stock Market}] <with [50]% chance>",
+        // "[+4 Gold] from every [{Market}{Stock Market}] <with [20]% chance>",
+        // "[-2 Gold] from every [{Market}{Stock Market}] <with [20]% chance>",
     ]
 }
