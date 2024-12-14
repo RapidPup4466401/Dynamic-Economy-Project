@@ -64,35 +64,35 @@
 		"requiredTech": "Economics",
 		"uniques": [
 			"[+50]% unhappiness from the number of cities",
-	}
+	},
 	{
 		"name": "Happiness Changer 2",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
 			"[+50]% unhappiness from the number of cities",
-	}
+	},
 	{
 		"name": "Happiness Changer 3",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
 			"[+50]% unhappiness from the number of cities",
-	}
+	},
 	{
 		"name": "Happiness Changer 4",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
 			"[+100]% unhappiness from the number of cities",
-	}
+	},
 	{
 		"name": "Happiness Changer 5",
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
 			"[+100]% unhappiness from the number of cities",
-	}
+	},
 	{
 		"name": "Happiness Changer 6",
 		"cost": 1,
