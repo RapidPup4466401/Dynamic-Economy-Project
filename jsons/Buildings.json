@@ -72,6 +72,7 @@
 		"requiredTech": "Economics",
 		"uniques": [
 			"[+50]% unhappiness from the number of cities",
+		]
 	},
 	{
 		"name": "Happiness Changer 3",
