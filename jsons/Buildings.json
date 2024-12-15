@@ -1,11 +1,20 @@
 [
 	{
-		"name": "Event Building",
+		"name": "Event Building 1",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
       			"Triggers a [Citizens are disatisfied!] event <when between [0] and [-5] Happiness> <for every [1] [turns]>",
+    		]
+	},
+	{
+		"name": "Event Building 2",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event",
     		]
 	},
 	{
