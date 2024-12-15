@@ -36,6 +36,15 @@
     		]
 	},
 	{
+		"name": "Event Building 5 [Testing]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <upon turn end>",
+    		]
+	},
+	{
 		"name": "Happiness Changer 1",
 		"cost": 1,
 		"requiredTech": "Economics",
