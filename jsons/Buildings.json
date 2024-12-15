@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Event Building 1 [Testing]",
+		"name": "Event Building 1 [Failure]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
@@ -18,7 +18,7 @@
     		]
 	},
 	{
-		"name": "Event Building 3 [Testing]",
+		"name": "Event Building 3 [Failure]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
@@ -27,7 +27,7 @@
     		]
 	},
 	{
-		"name": "Event Building 4 [Testing]",
+		"name": "Event Building 4 [Failure]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
@@ -36,12 +36,21 @@
     		]
 	},
 	{
-		"name": "Event Building 5 [50%]",
+		"name": "Event Building 5 [Success]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
-      			"Triggers a [Citizens are disatisfied!] event <upon turn end> <when between [0] and [-10] Happiness>",
+      			"Triggers a [Citizens are disatisfied!] event <upon turn end>",
+    		]
+	},
+	{
+		"name": "Event Building 5 [Success]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <upon turn end>",
     		]
 	},
 	{
