@@ -8,7 +8,7 @@
 	    ],
 	"uniques":
 	    [
-		    "Only available <when between [0] and [-5] [Happiness]> <upon turn end>",
+		    "Only available <when between [0] and [-5] [Happiness]> <for [Human player] Civilizations>",
 	    ]
     }
 ]
