@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Event Building 1",
+		"name": "Event Building 1 [Testing]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
@@ -9,7 +9,7 @@
     		]
 	},
 	{
-		"name": "Event Building 2",
+		"name": "Event Building 2 [Success]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
@@ -18,53 +18,22 @@
     		]
 	},
 	{
-		"name": "Market Test 1",
+		"name": "Event Building 3 [Testing]",
 		"cost": 1,
-		"requiredTech": "Economics",
-		"uniques": [
-			"[+10]% [Gold] [in this city] <every [1] turns> <with [50]% chance>",
-			"[-10]% [Gold] [in this city] <every [2] turns> <with [50]% chance>",
-			"[-12]% [Gold] [in this city] <every [1] turns> <with [75]% chance> <when below [1] Happiness>"],
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <when number of [Happiness] is between [0] and [-10]>",
+    		]
 	},
 	{
-		"name": "Market Test 2",
+		"name": "Event Building 4 [Testing]",
 		"cost": 1,
-		"requiredTech": "Economics",
-		"uniques": [
-			"[+10]% [Gold] [in this city] <with [50]% chance>",
-			"[-10]% [Gold] [in this city] <with [50]% chance>",
-			"[-12]% [Gold] [in this city] <with [75]% chance> <when below [1] Happiness>"],
-	},
-	{
-		"name": "Market Test 3",
-		"cost": 1,
-		"requiredTech": "Economics",
-		"uniques": [
-			"[+10] [Gold] [in this city]",
-			"[-10] [Gold] [in this city]",
-			"[-12] [Gold] [in this city]"],
-	},
-	{
-		"name": "Market Test 4",
-		"cost": 1,
-		"requiredTech": "Economics",
-		"uniques": [
-			"[+10] [Gold] [in this city] <upon turn end>"],
-	},
-	{
-		"name": "Market Test 5",
-		"cost": 1,
-		"requiredTech": "Economics",
-		"uniques": [
-			"[+10]% [Gold] [in this city] <upon turn end>"],
-	},
-	// 5 Success
-	{
-		"name": "Market Test 6",
-		"cost": 1,
-		"requiredTech": "Economics",
-		"uniques": [
-			"[+10]% [Gold] [in this city] <upon turn end> <with [50]% chance>"],
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <every [1] [turns]",
+    		]
 	},
 	{
 		"name": "Happiness Changer 1",
