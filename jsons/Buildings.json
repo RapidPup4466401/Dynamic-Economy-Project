@@ -5,8 +5,7 @@
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
-			"Triggers a [Inspiration] event",
-      			"Triggers a [Golden Age] event",
+      			"Triggers a [Citizens are unahppy!] event",
     		]
 	},
 	{
