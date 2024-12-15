@@ -2,9 +2,9 @@
     {
         "name":"Citizens are unhappy!",
         "presentation":"Floating",
-        "civilopediaText":[
+        "civilopediaText":
+	    [
 			{"text":"Find a way to reduce unrest and unhappiness!", "centered":true},
-		],
-        ]
+	    ],
     }
 ]
