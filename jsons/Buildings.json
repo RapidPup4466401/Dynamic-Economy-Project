@@ -32,7 +32,7 @@
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
-      			"Triggers a [Citizens are disatisfied!] event <every [1] [turns]",
+      			"Triggers a [Citizens are disatisfied!] event <every [2] turns>",
     		]
 	},
 	{
