@@ -1,7 +1,1 @@
-{
-    "name": "Global uniques",
-    "uniques": 
-    [
-        "Triggers a [Citizens are unhappy!] event <when between [0] and [5] [Happiness]> <upon turn end>"
-    ]
-}
+
