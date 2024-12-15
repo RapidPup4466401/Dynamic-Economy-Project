@@ -5,7 +5,7 @@
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
-      			"Triggers a [Citizens are disatisified!] event",
+      			"Triggers a [Citizens are disatisfied!] event",
     		]
 	},
 	{
