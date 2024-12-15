@@ -2,7 +2,6 @@
     "name": "Global uniques",
     "uniques": 
     [
-        // Comments relating to happiness
         "Triggers a [Citizens are unhappy!] event <when between [0] and [5] [Happiness]> <upon turn end>"
     ]
 }
