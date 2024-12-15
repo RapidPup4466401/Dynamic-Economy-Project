@@ -4,6 +4,9 @@
     [
         // Comments relating to happiness
         "Triggers a [Citizens are unhappy!] event <when between [0] and [5] [Happiness]> <upon turn end>"
+    ]
+}
+
         //"Your citizens are beginning to distrust the government... <when between [0] and [5] [Happiness]> <upon turn end>",
         //"Comment [Your citizens are in unrest and speak of rebellion...] <when between [-5] and [-1] [Happiness]>",
         //"Comment [Citizens are openly rioting in the streets...] <when between [-15] and [-6] [Happiness]>",
@@ -29,5 +32,3 @@
         // "[+2 Gold] from every [{Market}{Stock Market}] <with [50]% chance>",
         // "[+4 Gold] from every [{Market}{Stock Market}] <with [20]% chance>",
         // "[-2 Gold] from every [{Market}{Stock Market}] <with [20]% chance>",
-    ],
-}
