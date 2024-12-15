@@ -6,9 +6,5 @@
 	    [
 		    {"text":"Find a way to reduce unrest and unhappiness!", "centered":true},
 	    ],
-	"uniques":
-	    [
-		    "Only available <when between [0] and [-5] [Happiness]> <upon turn end>",
-	    ]
     }
 ]
