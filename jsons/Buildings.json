@@ -5,7 +5,7 @@
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
-      			"Triggers a [Citizens are disatisfied!] event <when between [0] and [-5] Happiness> <for every [turns]>",
+      			"Triggers a [Citizens are disatisfied!] event <when between [0] and [-5] Happiness> <for every [1] [turns]>",
     		]
 	},
 	{
