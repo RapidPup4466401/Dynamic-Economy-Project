@@ -1,47 +1,16 @@
 [
 	{
-		"name": "Event Building 2 [Success]",
+		"name": "Event Building 6 [Perfection]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
-      			"Triggers a [Citizens are disatisfied!] event",
-    		]
-	},
-	{
-		"name": "Event Building 4 [Failure]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [Citizens are disatisfied!] event <every [2] turns>",
-    		]
-	},
-	{
-		"name": "Event Building 5 [Success]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [Citizens are disatisfied!] event <upon turn end>",
-    		]
-	},
-	{
-		"name": "Event Building 5 [Testing]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [Citizens are disatisfied!] event <upon turn end> <when below [0] Happiness>",
-    		]
-	},
-	{
-		"name": "Event Building 6 [Testing]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [Citizens are disatisfied!] event <upon turn end> <when between [0] and [-10] Happiness>",
+      			"Triggers a [CitUnhappy1] event <upon turn end> <when between [0] and [-5] Happiness>",
+			"Triggers a [CitUnhappy2] event <upon turn end> <when between [-6] and [-10] Happiness>",
+			"Triggers a [CitUnhappy3] event <upon turn end> <when between [-11] and [-20] Happiness>",
+			"Triggers a [CitUnhappy4] event <upon turn end> <when between [-21] and [-40] Happiness>",
+			"Triggers a [CitUnhappy5] event <upon turn end> <when between [-41] and [-80] Happiness>",
+			"Triggers a [CitUnhappy6] event <upon turn end> <when between [-81] and [-100] Happiness>",
     		]
 	},
 	{
