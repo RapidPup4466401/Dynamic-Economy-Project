@@ -54,5 +54,33 @@
                 	"text":"I will fix this.",
             	},
 	    ]
+    	},
+	{
+        "name":"CitUnhappy5",
+        "presentation":"Alert",
+        "civilopediaText":
+	    [
+		    {"text":"Rebellion has begun to spread amongst the people.", "centered":true},
+	    ],
+	"choices": 
+	    [
+            	{
+                	"text":"I will fix this.",
+            	},
+	    ]
+    	},
+	{
+        "name":"CitUnhappy6",
+        "presentation":"Alert",
+        "civilopediaText":
+	    [
+		    {"text":"A civil war has been declared. The nation has been declared to be in a state of war.", "centered":true},
+	    ],
+	"choices": 
+	    [
+            	{
+                	"text":"I will fix this.",
+            	},
+	    ]
     	}
 ]
