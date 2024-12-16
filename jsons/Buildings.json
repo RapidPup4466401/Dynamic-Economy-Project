@@ -1,13 +1,4 @@
 [
-	//{
-		"name": "Event Building 1 [Failure]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [Citizens are disatisfied!] event <when between [0] and [-5] Happiness> <for every [1] [turns]>",
-    		]
-	},
 	{
 		"name": "Event Building 2 [Success]",
 		"cost": 1,
@@ -15,15 +6,6 @@
 		"uniques": 
     		[
       			"Triggers a [Citizens are disatisfied!] event",
-    		]
-	},
-	//{
-		"name": "Event Building 3 [Failure]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [Citizens are disatisfied!] event <when number of [Happiness] is between [0] and [-10]>",
     		]
 	},
 	{
