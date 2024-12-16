@@ -9,7 +9,7 @@
     		]
 	},
 	{
-		"name": "Event Building 8 [Testing]",
+		"name": "Event Building 8 [Failure",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
