@@ -139,3 +139,12 @@
       			"Triggers a [CitUnhappy1] event <upon turn end> <when between [0] and [-5] Happiness>",
     		]
 	},
+	{
+		"name": "Event Building 8 [Failure",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [CitUnhappy1] event <upon turn end> <when between [0] and [-20] Happiness>",
+    		]
+	},
