@@ -10,7 +10,7 @@
 			"Triggers a [CitUnhappy3] event <upon turn end> <when between [-11] and [-20] Happiness>",
 			"Triggers a [CitUnhappy4] event <upon turn end> <when between [-21] and [-40] Happiness>",
 			"Triggers a [CitUnhappy5] event <upon turn end> <when between [-41] and [-80] Happiness>",
-			"Triggers a [CitUnhappy6] event <upon turn end> <when between [-81] and [-100] Happiness>",
+			"Triggers a [CitUnhappy6] event <upon turn end> <when below [-81] Happiness>",
     		]
 	},
 	{
