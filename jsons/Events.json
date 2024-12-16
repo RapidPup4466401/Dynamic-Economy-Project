@@ -1,6 +1,6 @@
 [
     {
-        "name":"Citizens are disatisfied!",
+        "name":"CitUnhappy1",
         "presentation":"Alert",
         "civilopediaText":
 	    [
@@ -9,8 +9,50 @@
 	"choices": 
 	    [
             	{
-                	"text":"Got it",
+                	"text":"Okay",
             	},
 	    ]
-    }
+    },
+	{
+        "name":"CitUnhappy2",
+        "presentation":"Alert",
+        "civilopediaText":
+	    [
+		    {"text":"Your citizens are protesting. They demand betterments.", "centered":true},
+	    ],
+	"choices": 
+	    [
+            	{
+                	"text":"Okay",
+            	},
+	    ]
+	},
+	{
+        "name":"CitUnhappy3",
+        "presentation":"Alert",
+        "civilopediaText":
+	    [
+		    {"text":"Your citizens are rioting and causing chaos throughout the nation. What will you do?", "centered":true},
+	    ],
+	"choices": 
+	    [
+            	{
+                	"text":"I will fix it.",
+            	},
+	    ]
+    	},
+	{
+        "name":"CitUnhappy4",
+        "presentation":"Alert",
+        "civilopediaText":
+	    [
+		    {"text":"People are demanding an execution of the government and whisper of rebellion!", "centered":true},
+	    ],
+	"choices": 
+	    [
+            	{
+                	"text":"I will fix this.",
+            	},
+	    ]
+    	}
 ]
