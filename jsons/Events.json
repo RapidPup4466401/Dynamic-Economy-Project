@@ -40,7 +40,7 @@
                 	"text":"I will fix it.",
             	},
 	    ]
-    	},
+    },
 	{
         "name":"CitUnhappy4",
         "presentation":"Alert",
@@ -54,7 +54,7 @@
                 	"text":"I will fix this.",
             	},
 	    ]
-    	},
+    },
 	{
         "name":"CitUnhappy5",
         "presentation":"Alert",
@@ -68,7 +68,7 @@
                 	"text":"I will fix this.",
             	},
 	    ]
-    	},
+    },
 	{
         "name":"CitUnhappy6",
         "presentation":"Alert",
@@ -82,5 +82,5 @@
                 	"text":"I will fix this.",
             	},
 	    ]
-    	}
+    }
 ]
