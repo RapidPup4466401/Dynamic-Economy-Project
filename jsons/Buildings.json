@@ -19,48 +19,64 @@
 	},
 	{
 		"name": "HC 1",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
 	{
 		"name": "HC 2",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
 	{
 		"name": "HC 3",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
 	{
 		"name": "HC 4",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
 	{
 		"name": "HC 5",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
 	{
 		"name": "HC 6",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-10 Happiness]",
 		]
 	},
 	{
 		"name": "HC 7",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-10 Happiness]",
 		]
 	},
 	{
 		"name": "HC 8",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-10 Happiness]",
 		]
@@ -68,6 +84,8 @@
 
 	{
 		"name": "HC 9",
+		"cost": 0,
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"[-15 Happiness]",
 		]
