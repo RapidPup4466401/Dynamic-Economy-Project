@@ -9,6 +9,15 @@
     		]
 	},
 	{
+		"name": "Event Building 7 [Perfection]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [CitUnhappy1] event <upon turn end> <when below [-5] Happiness>",
+    		]
+	},
+	{
 		"name": "HC 1",
 		"uniques": [
 			"[-5 Happiness]",
