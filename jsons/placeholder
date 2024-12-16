@@ -73,5 +73,24 @@
 		"cost": 1,
 		"requiredTech": "Economics",
 		"uniques": [
+
+	{
+		"name": "Event Building 3 [Failure]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <when number of [Happiness] is between [0] and [-10]>",
+    		]
+	},
+	{
+		"name": "Event Building 1 [Failure]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <when between [0] and [-5] Happiness> <for every [1] [turns]>",
+    		]
+	},
 			"[+10]% [Gold] [in this city] <upon turn end> <with [50]% chance>"],
 	},
