@@ -6,7 +6,6 @@
 		"uniques": 
     		[
       			"Triggers a [CitUnhappy1] event <upon turn end> <when between [0] and [-5] Happiness>",
-			"Triggers a [CitUnhappy1] event <upon turn end> <when below [-5] Happiness>",
     		]
 	},
 	{
