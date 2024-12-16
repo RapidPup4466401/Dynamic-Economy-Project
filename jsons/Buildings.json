@@ -14,20 +14,61 @@
     		]
 	},
 	{
-		"name": "Happiness Changer 1",
-		"cost": 1,
-		"requiredTech": "Economics",
+		"name": "HC 1",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
 	{
-		"name": "Happiness Changer 2",
-		"cost": 1,
-		"requiredTech": "Economics",
+		"name": "HC 2",
 		"uniques": [
 			"[-5 Happiness]",
 		]
 	},
+	{
+		"name": "HC 3",
+		"uniques": [
+			"[-5 Happiness]",
+		]
+	},
+	{
+		"name": "HC 4",
+		"uniques": [
+			"[-5 Happiness]",
+		]
+	},
+	{
+		"name": "HC 5",
+		"uniques": [
+			"[-5 Happiness]",
+		]
+	},
+	{
+		"name": "HC 6",
+		"uniques": [
+			"[-10 Happiness]",
+		]
+	},
+	{
+		"name": "HC 7",
+		"uniques": [
+			"[-10 Happiness]",
+		]
+	},
+	{
+		"name": "HC 8",
+		"uniques": [
+			"[-10 Happiness]",
+		]
+	},
+
+	{
+		"name": "HC 9",
+		"uniques": [
+			"[-15 Happiness]",
+		]
+	},
+	
+	
 	
 ]
