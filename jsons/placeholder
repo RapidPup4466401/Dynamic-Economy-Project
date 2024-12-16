@@ -122,11 +122,20 @@
     		]
 	},
 	{
-		"name": "Event Building 5 [Testing]",
+		"name": "Event Building 5 [Success]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
     		[
       			"Triggers a [Citizens are disatisfied!] event <upon turn end> <when below [0] Happiness>",
+    		]
+	},
+	{
+		"name": "Event Building 6 [Failure]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [CitUnhappy1] event <upon turn end> <when between [0] and [-5] Happiness>",
     		]
 	},
