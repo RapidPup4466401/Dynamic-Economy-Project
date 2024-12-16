@@ -94,3 +94,39 @@
 	},
 			"[+10]% [Gold] [in this city] <upon turn end> <with [50]% chance>"],
 	},
+{
+		"name": "Event Building 2 [Success]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event",
+    		]
+	},
+	{
+		"name": "Event Building 4 [Failure]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <every [2] turns>",
+    		]
+	},
+	{
+		"name": "Event Building 5 [Success]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <upon turn end>",
+    		]
+	},
+	{
+		"name": "Event Building 5 [Testing]",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+		"uniques": 
+    		[
+      			"Triggers a [Citizens are disatisfied!] event <upon turn end> <when below [0] Happiness>",
+    		]
+	},
