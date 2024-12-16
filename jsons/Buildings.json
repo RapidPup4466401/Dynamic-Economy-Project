@@ -1,15 +1,6 @@
 [
 	{
-		"name": "Event Building 6 [Perfection]",
-		"cost": 1,
-		"requiredTech": "Agriculture",
-		"uniques": 
-    		[
-      			"Triggers a [CitUnhappy1] event <upon turn end> <when between [0] and [-5] Happiness>",
-    		]
-	},
-	{
-		"name": "Event Building 7 [Perfection]",
+		"name": "Event Building 7 [Almost]",
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"uniques": 
